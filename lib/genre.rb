@@ -35,5 +35,4 @@ class Genre
     songs.collect(&:artist).uniq
  end
   
-  
 end
